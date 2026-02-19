@@ -22,6 +22,10 @@ A responsive task management web application built using HTML, CSS, and JavaScri
 - JSON.stringify() & JSON.parse()
 - State Management
 
+## project preview
+![App Screenshot](screenshot.png)
+
+
 ## Future Improvements
 - Task completion status
 - API integration
